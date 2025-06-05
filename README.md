@@ -1,6 +1,7 @@
 # News Sleuth: Your Interactive News Companion
 
-![App Screenshot/GIF Placeholder](link-to-your-screenshot-or-gif)
+![image](https://github.com/user-attachments/assets/cefdcc32-d148-4f88-a259-ff9038e3db03)
+
 
 Explore the latest headlines with News Sleuth, a dynamic news application built with Next.js. Dive into a world of information while a curious Sherlock Holmes detective roams the background, interacting with the news cards as if they were the very buildings holding secrets.
 
