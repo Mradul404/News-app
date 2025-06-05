@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="150" viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Deerstalker Hat -->
+  <path d="M35 10c-5 0-10 5-10 10 0 5 5 10 10 10h30c5 0 10-5 10-10 0-5-5-10-10-10H35z" fill="#2C3E50"/>
+  <path d="M25 20h50v5h-50z" fill="#2C3E50"/>
+  
+  <!-- Face -->
+  <circle cx="50" cy="35" r="12" fill="#F5D0A9"/>
+  <path d="M45 32c-1 0-2 1-2 2s1 2 2 2 2-1 2-2-1-2-2-2z" fill="#2C3E50"/>
+  <path d="M55 32c-1 0-2 1-2 2s1 2 2 2 2-1 2-2-1-2-2-2z" fill="#2C3E50"/>
+  <path d="M48 40c2 2 4 2 4 0" stroke="#2C3E50" stroke-width="1" fill="none"/>
+  
+  <!-- Pipe -->
+  <path d="M65 35c5 0 10 5 10 10 0 5-5 10-10 10" stroke="#8B4513" stroke-width="3" fill="none"/>
+  <circle cx="75" cy="45" r="3" fill="#8B4513"/>
+  
+  <!-- Coat -->
+  <path d="M35 45c-5 0-10 5-10 10v40c0 5 5 10 10 10h30c5 0 10-5 10-10V55c0-5-5-10-10-10H35z" fill="#34495E"/>
+  
+  <!-- Vest -->
+  <path d="M40 55h20v30h-20z" fill="#2C3E50"/>
+  
+  <!-- Arms -->
+  <path d="M30 50c-5 0-10 5-10 10v20c0 5 5 10 10 10" fill="#34495E"/>
+  <path d="M70 50c5 0 10 5 10 10v20c0 5-5 10-10 10" fill="#34495E"/>
+  
+  <!-- Magnifying Glass -->
+  <circle cx="25" cy="45" r="8" fill="none" stroke="#8B4513" stroke-width="3"/>
+  <path d="M20 50l5 5" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- Legs -->
+  <path d="M40 95h10v30h-10z" fill="#2C3E50"/>
+  <path d="M50 95h10v30h-10z" fill="#2C3E50"/>
+  
+  <!-- Shoes -->
+  <path d="M35 125h15v5h-15z" fill="#1a1a1a"/>
+  <path d="M50 125h15v5h-15z" fill="#1a1a1a"/>
+</svg> 
